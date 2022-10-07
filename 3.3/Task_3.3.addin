@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\Task_3.3.dll"</Assembly>
+		<AddInId>E4073BD8-31E2-40A1-A1CF-197005E38475</AddInId>
+		<FullClassName>Task_3.3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Длинна с запасом</Text>
+	</AddIn>
+</RevitAddIns>

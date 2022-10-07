@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\Task_1.dll"</Assembly>
+		<AddInId>61EE514E-718C-4E85-BB37-CFABB56A4554</AddInId>
+		<FullClassName>Task_3.4.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Создать параметр</Text>
+	</AddIn>
+</RevitAddIns>
